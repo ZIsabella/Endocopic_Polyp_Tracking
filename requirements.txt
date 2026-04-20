@@ -1,0 +1,13 @@
+opencv-python
+numpy
+tqdm
+requests
+natsort
+streamlit
+Pillow
+torch
+ultralytics
+filterpy
+scikit-learn
+matplotlib
+deep-sort-realtime
